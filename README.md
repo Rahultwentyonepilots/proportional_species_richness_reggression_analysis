@@ -1,0 +1,2 @@
+# R-language-Project-proportional_species_richness-
+The project focuses on examining proportional species richness using univariate analysis and fundamental R programming techniques. It involves hypothesis testing, contingency table analysis for comparing categorical variables, as well as simple and multiple linear regression. Additionally, the project encourages open-ended analysis and exploration.
